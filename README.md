@@ -28,6 +28,16 @@ Diabetic Retinopathy (DR) is a diabetes-related eye disease that can lead to vis
 
 RETINA-AEGIS aims to assist retinal image analysis by combining deep learning, image processing, explainable AI, and uncertainty estimation into a unified pipeline.
 
+## 👩‍💻 My Contribution — AI/ML
+
+As part of the AI/ML team, I worked on:
+
+- **DR Severity Classification** using ResNet-50 transfer learning
+- **Model evaluation** using accuracy, sensitivity and specificity
+- **Grad-CAM** for explainable predictions
+- **Uncertainty & probability calibration**
+- **Retinal lesion analysis and segmentation**
+- MATLAB-based deep learning and image-processing pipeline
 
 
 \### Pipeline
