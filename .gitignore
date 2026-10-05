@@ -1,0 +1,38 @@
+# RETINA-AEGIS
+
+# Datasets
+dataset/
+datasets/
+data/
+Dataset_retino_dataport/
+aptos2019-blindness-detection/
+
+# Large MATLAB model/result files
+RetinaAegis_CPU.mat
+RetinaAegis_Classifier.mat
+RetinaAegis_FULL_Results.mat
+
+# Generated XAI/lesion overlays
+xai_reports/lesion_results/overlays/
+# Generated lesion masks
+xai_reports/lesion_results/masks/
+xai_reports/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment / secrets
+.env
+.env.*
+
+# MATLAB temporary files
+*.asv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
